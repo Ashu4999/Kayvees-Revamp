@@ -30,11 +30,10 @@ export const CORE_SERVICES = [
     icon: "Factory",
     shortDesc: "Turnkey PEB factory sheds, RCC multi-story structures, heavy equipment foundations adhering to strict ISO & industrial safety norms.",
     thumbnail: "/assets/img/industrial-construction.png",
-    colSpan: "md:col-span-7",
     features: [
-      "Heavy-duty PEB factory sheds & multi-acre RCC structures",
-      "Strict quality control and structural safety supervision",
-      "Complete compliance with industrial fire & zoning regulations",
+      "Turnkey PEB factory sheds & heavy-duty RCC frameworks",
+      "Strict quality control & structural safety supervision",
+      "Industrial fire, environmental & zoning clearances",
     ]
   },
   {
@@ -44,10 +43,10 @@ export const CORE_SERVICES = [
     icon: "Trees",
     shortDesc: "Sale of fully developed plots, MIDC-ready industrial zones, and scenic farmhouse retreats across Pune & Western Maharashtra.",
     thumbnail: "/assets/img/farmhouse.png",
-    colSpan: "md:col-span-5",
     features: [
-      "Clear title & NA compliant land plots",
-      "Strategic proximity to MIDC & industrial hubs",
+      "Clear title & NA sanctioned strategic land plots",
+      "Direct connectivity to MIDC & industrial hubs",
+      "Gated farmhouse layouts with utility infrastructure",
     ]
   },
   {
@@ -57,10 +56,10 @@ export const CORE_SERVICES = [
     icon: "Building2",
     shortDesc: "Transforming physical workplaces into modern branding environments for IT software campuses, hospitals, hotels, and retail showrooms.",
     thumbnail: "/assets/img/interior-design.png",
-    colSpan: "md:col-span-5",
     features: [
-      "Corporate Brand identity spatial design",
-      "Ergonomic IT workstations & executive boardrooms",
+      "Corporate brand identity architectural spatial design",
+      "Ergonomic IT workstations, campuses & boardrooms",
+      "Specialized healthcare, hotel & retail showroom fit-outs",
     ]
   },
   {
@@ -70,10 +69,10 @@ export const CORE_SERVICES = [
     icon: "Home",
     shortDesc: "Bespoke interior architecture for luxury bungalows and apartments balancing spatial planning, ergonomics, and timeless elegance.",
     thumbnail: "/assets/img/interior-resident.png",
-    colSpan: "md:col-span-7",
     features: [
-      "12+ named bungalow and residence estates completed in Pune",
-      "Custom modular millwork, mood lighting, and imported finishes",
+      "12+ completed luxury bungalow & penthouse estates in Pune",
+      "Custom modular millwork, mood lighting & bespoke finishes",
+      "Turnkey delivery from 3D conceptualization to handover",
     ]
   }
 ];
