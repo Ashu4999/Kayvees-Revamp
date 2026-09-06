@@ -1,0 +1,48 @@
+{
+  "$schema": "https://tokens.studio/schemas/token-set.json",
+  "version": "2.2.0",
+  "name": "Kayvees-2026-Design-System",
+  "color": {
+    "brand": {
+      "navy": {
+        "value": "#0B132B",
+        "type": "color",
+        "description": "Deep obsidian navy - primary luxury brand anchor"
+      },
+      "slate": {
+        "value": "#1C2541",
+        "type": "color",
+        "description": "Secondary slate for hero card overlays and card borders"
+      },
+      "cyan": {
+        "value": "#0284C7",
+        "type": "color",
+        "description": "Corporate electric cyan for primary CTAs and active states"
+      },
+      "cyan-hover": {
+        "value": "#0369A1",
+        "type": "color",
+        "description": "Darker hover state for cyan buttons"
+      },
+      "accent-gold": {
+        "value": "#C5A880",
+        "type": "color",
+        "description": "Warm architectural gold for badges, years of trust, and CEO accents"
+      }
+    },
+    "surface": {
+      "base": { "value": "#F8FAFC", "type": "color" },
+      "card": { "value": "#FFFFFF", "type": "color" },
+      "border": { "value": "#E2E8F0", "type": "color" },
+      "text-primary": { "value": "#0B132B", "type": "color" },
+      "text-secondary": { "value": "#475569", "type": "color" },
+      "text-muted": { "value": "#94A3B8", "type": "color" }
+    }
+  },
+  "typography": {
+    "fontFamilies": {
+      "display": { "value": "Plus Jakarta Sans, sans-serif", "type": "fontFamilies" },
+      "body": { "value": "Inter, sans-serif", "type": "fontFamilies" }
+    }
+  }
+}
